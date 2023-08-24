@@ -13,8 +13,8 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "windows11/LargeTile.scale-150.png",
-      "sizes": "465x465"
+      "src": "windows11/LargeTile.scale-200.png",
+      "sizes": "620x620"
     }
   ],
   "shortcuts": [],
