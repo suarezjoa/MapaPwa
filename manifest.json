@@ -1,0 +1,22 @@
+{
+  "background_color": "#ffffff",
+  "description": "Aca podras poner marcadores para tus lugares favoritos o que creas importantes",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "mapaMarcador",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "mapMarcador",
+  "start_url": "/",
+  "theme_color": "#a64141",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "windows11/LargeTile.scale-150.png",
+      "sizes": "465x465"
+    }
+  ],
+  "shortcuts": [],
+  "id": "mapaMarcador"
+}
